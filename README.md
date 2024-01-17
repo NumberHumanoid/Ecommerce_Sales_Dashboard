@@ -19,7 +19,8 @@ The sales manager, *Steven Fuentes*, has identified a need for enhancing the com
 ![Static Badge](https://img.shields.io/badge/Language-SQL-blue)  ![Static Badge](https://img.shields.io/badge/Language-PowerBI-orange)
 
 ## Data Model
-![Star_schema](Assets/Ecommerce_sales_star.JPG)
+![Ecommerce_sales_star](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard/assets/149428916/b03c4cc8-3507-41a3-9aea-8c4d58e0f5fe)
+
 
 # Features
 ![Sales_Overview](URL)
