@@ -1,5 +1,6 @@
 # Sales Dashboard
 
+
 ## Business Request
 **Client:** *AdventureWorks*, a global leading bicycle manufacturing company.
 
