@@ -32,8 +32,6 @@ The sales manager, *Steven Fuentes*, has identified a need for enhancing the com
 
 
 
-# Conclusion
-
 
 
 # Data Source and Acknowledgements
