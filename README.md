@@ -24,12 +24,11 @@ The sales manager, *Steven Fuentes*, has identified a need for enhancing the com
 
 
 # Features
-![Sales_Overview](URL)
+![Ecommerce-Sales-Dashboard gif](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard/assets/149428916/c72f36b0-848b-47f5-a135-a0fbdb122758)
 
-![Product_Overview](URL)
+![Sales-dsh-sales](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard/assets/149428916/a32c7128-693e-4e10-bf8e-351c0cb8c788)
 
-![Customer_Overview](URL)
-
+![sales-dsh-products](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard/assets/149428916/b67a28f1-4283-4763-848b-5e26e8dcb204)
 
 
 
