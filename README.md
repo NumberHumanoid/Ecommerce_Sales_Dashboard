@@ -1,5 +1,6 @@
 # Sales Dashboard
 
+![Ecommerce-Sales-Dashboard gif](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard/assets/149428916/c72f36b0-848b-47f5-a135-a0fbdb122758)
 
 ## Business Request
 **Client:** *AdventureWorks*, a global leading bicycle manufacturing company.
@@ -24,7 +25,6 @@ The sales manager, *Steven Fuentes*, has identified a need for enhancing the com
 
 
 # Features
-![Ecommerce-Sales-Dashboard gif](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard/assets/149428916/c72f36b0-848b-47f5-a135-a0fbdb122758)
 
 ![Sales-dsh-sales](https://github.com/NumberHumanoid/Ecommerce_Sales_Dashboard/assets/149428916/a32c7128-693e-4e10-bf8e-351c0cb8c788)
 
