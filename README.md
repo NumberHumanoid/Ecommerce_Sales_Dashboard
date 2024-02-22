@@ -37,4 +37,3 @@ The sales manager, *Steven Fuentes*, has identified a need for enhancing the com
 * AdventureWorks sample databases by: Microsoft (https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 * Date Script by: David Alzamendi (https://techtalkcorner.com)
 * Codebeautifier 
-* Project Idea by: Ali Ahmad (https://www.youtube.com/@iamaliahmad)
